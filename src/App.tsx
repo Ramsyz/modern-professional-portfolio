@@ -45,10 +45,10 @@ export default function App() {
                 />
               </div>
               <h1 className="text-4xl lg:text-5xl font-bold tracking-tight text-zinc-900 mb-2">
-                Alex Rivera
+                Seetaram Vannemreddi
               </h1>
               <h2 className="text-xl font-medium text-zinc-600 mb-6">
-                Senior Software Engineer
+                Junior Full Stack Developer
               </h2>
               <p className="text-zinc-500 leading-relaxed mb-8 max-w-md">
                 I build accessible, pixel-perfect digital experiences for the web. 
